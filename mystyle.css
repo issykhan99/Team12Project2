@@ -1,0 +1,19 @@
+
+#about1{
+    font-family: sans-serif;
+    color: black;
+    top:200px;
+    
+}
+#map{
+    padding: 100px;
+    top: 200px;
+    margin: 300px;
+    
+}
+#fu1{
+    top: 300px;
+    left: 20px;
+    padding: inherit;
+    color: black;
+}
